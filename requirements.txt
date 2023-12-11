@@ -12,7 +12,7 @@ openai~=0.27.8
 EdgeGPT==0.13.2
 OpenAIAuth>=2.0.0
 BingImageCreator~=0.4.4
-poe-api==0.5.2
+poe-api==0.5.3
 tiktoken~=0.4.0
 
 # TTS-related-dependencies
